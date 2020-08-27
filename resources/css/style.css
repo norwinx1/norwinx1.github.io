@@ -3,26 +3,26 @@ html {
   font-family: "Overpass";
 }
 
-div {
+.content {
   color: white;
   text-align: center;
 }
 
-h1 {
+#h1 {
   font-size: 3.125rem;
 }
 
-h2 {
+#h2 {
   font-weight: 300;
   font-size: 2.625rem;
 }
 
-p {
+#p {
   font-size: 1.3125;
   color: gray;
 }
 
-a {
+#a {
   color: aquamarine;
   font-size: 1rem;
 }

@@ -3,6 +3,11 @@ html {
   font-family: "Overpass";
 }
 
+.content {
+  color: white;
+  text-align: center;
+}
+
 h1 {
   font-size: 3.125rem;
 }
